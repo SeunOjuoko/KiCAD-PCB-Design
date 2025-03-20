@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Antenna")(type "KiCad")(uri "${KIPRJMOD}/Antenna.kicad_sym")(options "")(descr ""))
+  (lib (name "SimSocket")(type "KiCad")(uri "${KIPRJMOD}/SimSocket.kicad_sym")(options "")(descr ""))
+  (lib (name "Diode1")(type "KiCad")(uri "${KIPRJMOD}/Diode.kicad_sym")(options "")(descr ""))
+)
